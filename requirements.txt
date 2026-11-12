@@ -1,0 +1,11 @@
+# Core stack used by notebooks/Predictive Maintenance.ipynb
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+torch>=2.2
+jupyter
+
+# GPU (optional): install the CUDA build of PyTorch that matches your driver, e.g.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
